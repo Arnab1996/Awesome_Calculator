@@ -1,8 +1,5 @@
 # CI- Calculator
 
-   
-## Screenshot
-![CI-Calculator](https://raw.githubusercontent.com/alimranahmed/Scientific-Calculator-using-JAVA-swing/master/screenshot.png)
 
 ## Installation 
 1. Clone the repo using: `git clone https://github.com/alimranahmed/Scientific-Calculator-using-JAVA-swing.git`
